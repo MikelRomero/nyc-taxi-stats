@@ -1,0 +1,11 @@
+{
+  "average_price_per_mile": 7.869999885559082,
+  "payment_type_distribution": {
+    "1": 72133,
+    "2": 19207,
+    "0": 2115,
+    "4": 1077,
+    "3": 560
+  },
+  "custom_indicator": 2.809999942779541
+}
